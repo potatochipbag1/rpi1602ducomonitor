@@ -16,6 +16,6 @@ customexv = "bch"
 allowdonate = True
 #replace with donation amount every 60 turns
 donateamount = 0.1
-#replace with who you want to donate to
-#donateperson = "j727s"
-donateperson = "revox"
+#replace with who you want to donate to DO NOT DO ANY MODS OR STAFF OR ELSE THEY WILL UNVERIFY YOU, TRUST ME
+#https://explorer.duinocoin.com/?search=dcac53dd
+donateperson = "j727s"
